@@ -17,6 +17,10 @@ To make it working:
     you can find my database at https://github.com/yOyOeK1/depthLogerDB
 - set up your source kap file directory
 
+Example of work
+![Alt text](./imgs/kapTmp.kap_mod.png?raw=true "After")
+![Alt text](./imgs/kapTmp.kap.png?raw=true "Before")
+
 
 more detail destription comming soon...
 cdn... :)
