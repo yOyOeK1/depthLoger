@@ -1,0 +1,1 @@
+adb push /home/yoyo/Charts/a_panama_bauhause/ "/sdcard/Charts/PANAMA/"
