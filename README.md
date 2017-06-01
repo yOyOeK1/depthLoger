@@ -18,8 +18,12 @@ To make it working:
 - set up your source kap file directory
 
 Example of work
-![Alt text](./imgs/kapTmp.kap_mod.png?raw=true "After")
+
+original file
 ![Alt text](./imgs/kapTmp.kap.png?raw=true "Before")
+
+after work
+![Alt text](./imgs/kapTmp.kap_mod.png?raw=true "After")
 
 
 more detail destription comming soon...
